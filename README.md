@@ -2,7 +2,7 @@
 SOC L1 analyst documentation on alert triage, detection techniques and red team insights
 # SOC Alert Triage Playbooks
 
-## 👨‍💻 About Me
+## About Me
 SOC L1 Analyst transitioning into Red Team / Offensive Security.
 
 This repository documents my approach to:
@@ -13,13 +13,13 @@ This repository documents my approach to:
 
 ---
 
-## 🎯  (Objective)
+## Objective
 To demonstrate real-world security analysis skills and bridge the gap between:
 🔵 Blue Team (SOC) → 🔴 Red Team (Offensive Security)
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - SIEM investigation
 - Log analysis
 - Threat detection
@@ -28,7 +28,7 @@ To demonstrate real-world security analysis skills and bridge the gap between:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `/playbooks` → Alert triage writeups  
 - `/notes` → Detection & evasion notes  
@@ -36,7 +36,7 @@ To demonstrate real-world security analysis skills and bridge the gap between:
 
 ---
 
-## 🔄 Methodology
+## Methodology
 
 Each alert is analyzed using:
 
@@ -49,7 +49,7 @@ Each alert is analyzed using:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 All scenarios are based on:
 - Lab environments
 - Simulated data
